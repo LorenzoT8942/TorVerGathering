@@ -1,0 +1,3 @@
+1) The system shall notify the administrator if someone requests to join his group.
+2) The system shall create a shortcut to a group which the user belongs too.
+3) The system shall recommend to the user some groups attended by his favorite users.
