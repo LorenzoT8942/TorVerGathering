@@ -1,0 +1,9 @@
+1. The system shall allow the user to create a personal account.
+
+2. The system shall filter the list of the study groups by:
+	-Name of the course;
+	-Attended courses;
+	-Spaces available in the group;
+	-Language of the group.
+
+3. The system shall have a dedicated view which displays a list of news about Tor Vergata.

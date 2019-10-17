@@ -1,0 +1,5 @@
+1. As a student, I want a way to find study groups, so I can study with other students from my courses.
+
+2. As a creator of a study group, I want to invite my friends to the group, so I can study with them.
+
+3. As a member of a study group, I want to chat with the other members, so I can plan meetings with them.
