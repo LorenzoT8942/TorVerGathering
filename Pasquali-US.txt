@@ -1,3 +1,0 @@
-1.	As a user, I want to be able to change my profile, so that I can update my personal information every time I want.
-2.	As a user, I want to be able to add a course to my list of courses, so that I can look for a group that is studying for that course.
-3.	As a user, I want to be able to create a new group, so that I can find some people to study for a certain subject.
