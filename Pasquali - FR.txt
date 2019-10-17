@@ -1,0 +1,3 @@
+1.	The system shall provide the user information (e.g profile picture, name, surname, courses of interest, active groups).
+2.	The system shall provide a communication system, in which members of a group can send messages and files.
+3.	The system shall provide the groups' administrators with the ability to accept and decline requests to join their groups.
